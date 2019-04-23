@@ -1,10 +1,11 @@
 /* 
     Name:           Full name here
-    Student Number: XXXXXXXXX
+    Student Number: <XXXXXXXXX>
     Email:          userID@myseneca.ca
     Section:        xxx
     Workshop:       2 (in-lab)
 */
+
 
 #define _CRT_SECURE_NO_WARNINGS
 
