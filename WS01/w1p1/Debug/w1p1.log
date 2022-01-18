@@ -1,1 +1,6 @@
-﻿  WordStat.cpp
+﻿  cStrTools.cpp
+  Word.cpp
+  WordStat.cpp
+  Generating Code...
+  LINK : C:\Users\beb\Documents\GitHub\BTP-Workshops\WS01\w1p1\Debug\w1p1.exe not found or not built by the last incremental link; performing full link
+  w1p1.vcxproj -> C:\Users\beb\Documents\GitHub\BTP-Workshops\WS01\w1p1\Debug\w1p1.exe
